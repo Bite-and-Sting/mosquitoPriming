@@ -1,0 +1,163 @@
+GO Oral_AFBprimed.Sham Oral_CBprimed.Sham Inject_AFBprimed.Sham Inject_AFBprimed.Infected Term class
+GO:0000070 0 0 0 1 mitotic sister chromatid segregation BP
+GO:0000278 0 0 0 1 mitotic cell cycle BP
+GO:0000280 0 0 0 1 nuclear division BP
+GO:0000785 1 0 0 0 chromatin CC
+GO:0000786 1 0 0 0 nucleosome CC
+GO:0000819 0 0 0 1 sister chromatid segregation BP
+GO:0000981 0 1 0 0 DNA-binding transcription factor activity, RNA polymerase II-specific MF
+GO:0001539 1 0 0 0 cilium or flagellum-dependent cell motility BP
+GO:0003682 0 0 0 1 chromatin binding MF
+GO:0003707 0 1 0 0 steroid hormone receptor activity MF
+GO:0003755 0 0 0 1 peptidyl-prolyl cis-trans isomerase activity MF
+GO:0003950 1 0 0 0 NAD+ ADP-ribosyltransferase activity MF
+GO:0004175 1 0 0 0 endopeptidase activity MF
+GO:0004176 1 0 0 0 ATP-dependent peptidase activity MF
+GO:0004180 0 1 0 0 carboxypeptidase activity MF
+GO:0004181 1 0 0 0 metallocarboxypeptidase activity MF
+GO:0004185 0 1 0 0 serine-type carboxypeptidase activity MF
+GO:0004252 1 1 0 0 serine-type endopeptidase activity MF
+GO:0004497 0 0 1 0 monooxygenase activity MF
+GO:0004511 0 0 1 0 tyrosine 3-monooxygenase activity MF
+GO:0004601 0 1 0 0 peroxidase activity MF
+GO:0004623 1 0 0 0 phospholipase A2 activity MF
+GO:0004733 1 0 0 0 pyridoxamine-phosphate oxidase activity MF
+GO:0004879 0 1 0 0 nuclear receptor activity MF
+GO:0004887 0 1 0 0 thyroid hormone receptor activity MF
+GO:0005198 1 0 0 0 structural molecule activity MF
+GO:0005506 0 0 1 0 iron ion binding MF
+GO:0005509 1 1 0 0 calcium ion binding MF
+GO:0005524 0 0 0 1 ATP binding MF
+GO:0005576 1 1 0 0 extracellular region CC
+GO:0005789 0 1 0 0 endoplasmic reticulum membrane CC
+GO:0005858 1 0 0 0 axonemal dynein complex CC
+GO:0005930 1 0 0 0 axoneme CC
+GO:0006022 1 0 0 0 aminoglycan metabolic process BP
+GO:0006030 1 0 0 0 chitin metabolic process BP
+GO:0006040 1 0 0 0 amino sugar metabolic process BP
+GO:0006298 1 1 0 0 mismatch repair BP
+GO:0006457 0 1 0 1 protein folding BP
+GO:0006471 1 0 0 0 protein ADP-ribosylation BP
+GO:0006476 1 0 0 0 protein deacetylation BP
+GO:0006487 0 1 0 0 protein N-linked glycosylation BP
+GO:0006584 0 0 1 0 catecholamine metabolic process BP
+GO:0006629 0 1 0 0 lipid metabolic process BP
+GO:0006720 0 1 0 0 isoprenoid metabolic process BP
+GO:0006766 1 0 0 0 vitamin metabolic process BP
+GO:0006767 1 0 0 0 water-soluble vitamin metabolic process BP
+GO:0006801 0 1 0 0 superoxide metabolic process BP
+GO:0006816 1 0 0 0 calcium ion transport BP
+GO:0006851 1 0 0 0 mitochondrial calcium ion transmembrane transport BP
+GO:0006979 0 1 0 0 response to oxidative stress BP
+GO:0007009 1 0 0 0 plasma membrane organization BP
+GO:0007033 1 0 0 0 vacuole organization BP
+GO:0007040 1 0 0 0 lysosome organization BP
+GO:0007049 0 0 0 1 cell cycle BP
+GO:0007059 0 0 0 1 chromosome segregation BP
+GO:0007062 0 0 0 1 sister chromatid cohesion BP
+GO:0007064 0 0 0 1 mitotic sister chromatid cohesion BP
+GO:0007155 0 1 0 0 cell adhesion BP
+GO:0007156 0 1 0 0 homophilic cell adhesion via plasma membrane adhesion molecules BP
+GO:0008061 1 1 0 0 chitin binding MF
+GO:0008191 0 1 0 0 metalloendopeptidase inhibitor activity MF
+GO:0008233 1 1 0 0 peptidase activity MF
+GO:0008236 1 1 0 0 serine-type peptidase activity MF
+GO:0008238 0 1 0 0 exopeptidase activity MF
+GO:0008241 1 0 0 0 peptidyl-dipeptidase activity MF
+GO:0008250 0 1 0 0 oligosaccharyltransferase complex CC
+GO:0008299 0 1 0 0 isoprenoid biosynthetic process BP
+GO:0008610 0 1 0 0 lipid biosynthetic process BP
+GO:0008614 1 0 0 0 pyridoxine metabolic process BP
+GO:0008615 1 0 0 0 pyridoxine biosynthetic process BP
+GO:0009072 0 0 1 0 aromatic amino acid family metabolic process BP
+GO:0009110 1 0 0 0 vitamin biosynthetic process BP
+GO:0009712 0 0 1 0 catechol-containing compound metabolic process BP
+GO:0009713 0 0 1 0 catechol-containing compound biosynthetic process BP
+GO:0009755 1 0 0 0 hormone-mediated signaling pathway BP
+GO:0009892 0 0 1 0 negative regulation of metabolic process BP
+GO:0010181 1 0 0 0 FMN binding MF
+GO:0010256 1 0 0 0 endomembrane system organization BP
+GO:0010605 0 0 1 0 negative regulation of macromolecule metabolic process BP
+GO:0010629 0 0 1 0 negative regulation of gene expression BP
+GO:0014070 1 0 0 0 response to organic cyclic compound BP
+GO:0015074 1 0 0 0 DNA integration BP
+GO:0016010 0 1 0 0 dystrophin-associated glycoprotein complex CC
+GO:0016020 0 1 0 0 membrane CC
+GO:0016021 0 1 0 0 integral component of membrane CC
+GO:0016209 0 1 0 0 antioxidant activity MF
+GO:0016458 0 0 1 0 gene silencing BP
+GO:0016491 0 0 1 0 oxidoreductase activity MF
+GO:0016500 0 1 0 0 protein-hormone receptor activity MF
+GO:0016638 1 0 0 0 oxidoreductase activity, acting on the CH-NH2 group of donors MF
+GO:0016641 1 0 0 0 oxidoreductase activity, acting on the CH-NH2 group of donors, oxygen as acceptor MF
+GO:0016684 0 1 0 0 oxidoreductase activity, acting on peroxide as acceptor MF
+GO:0016705 0 0 1 0 oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen MF
+GO:0016714 0 0 1 0 oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced pteridine as one donor, and incorporation of one atom of oxygen MF
+GO:0016853 0 0 0 1 isomerase activity MF
+GO:0016859 0 0 0 1 cis-trans isomerase activity MF
+GO:0017144 1 0 0 0 drug metabolic process BP
+GO:0017171 1 1 0 0 serine hydrolase activity MF
+GO:0018958 0 0 1 0 phenol-containing compound metabolic process BP
+GO:0019213 1 0 0 0 deacetylase activity MF
+GO:0020037 0 1 1 0 heme binding MF
+GO:0022402 0 0 0 1 cell cycle process BP
+GO:0022610 0 1 0 0 biological adhesion BP
+GO:0030554 0 0 0 1 adenyl nucleotide binding MF
+GO:0030983 1 1 0 0 mismatched DNA binding MF
+GO:0031047 0 0 1 0 gene silencing by RNA BP
+GO:0031224 0 1 0 0 intrinsic component of membrane CC
+GO:0032559 0 0 0 1 adenyl ribonucleotide binding MF
+GO:0032838 1 0 0 0 plasma membrane bounded cell projection cytoplasm CC
+GO:0032993 1 0 0 0 protein-DNA complex CC
+GO:0033558 1 0 0 0 protein deacetylase activity MF
+GO:0033993 1 0 0 0 response to lipid BP
+GO:0034979 1 0 0 0 NAD-dependent protein deacetylase activity MF
+GO:0035601 1 0 0 0 protein deacylation BP
+GO:0040011 1 0 0 0 locomotion BP
+GO:0042175 0 1 0 0 nuclear outer membrane-endoplasmic reticulum membrane network CC
+GO:0042302 1 0 0 0 structural constituent of cuticle MF
+GO:0042364 1 0 0 0 water-soluble vitamin biosynthetic process BP
+GO:0042423 0 0 1 0 catecholamine biosynthetic process BP
+GO:0042816 1 0 0 0 vitamin B6 metabolic process BP
+GO:0042819 1 0 0 0 vitamin B6 biosynthetic process BP
+GO:0043401 1 0 0 0 steroid hormone mediated signaling pathway BP
+GO:0044255 0 1 0 0 cellular lipid metabolic process BP
+GO:0044425 0 1 0 0 membrane part CC
+GO:0044432 0 1 0 0 endoplasmic reticulum part CC
+GO:0044447 1 0 0 0 axoneme part CC
+GO:0044815 1 0 0 0 DNA packaging complex CC
+GO:0046189 0 0 1 0 phenol-containing compound biosynthetic process BP
+GO:0046906 0 1 1 0 tetrapyrrole binding MF
+GO:0046914 0 0 1 0 transition metal ion binding MF
+GO:0048037 0 1 0 0 cofactor binding MF
+GO:0048285 0 0 0 1 organelle fission BP
+GO:0048519 0 0 1 0 negative regulation of biological process BP
+GO:0048545 1 0 0 0 response to steroid hormone BP
+GO:0048870 1 0 0 0 cell motility BP
+GO:0050662 1 0 0 0 coenzyme binding MF
+GO:0051674 1 0 0 0 localization of cell BP
+GO:0070008 0 1 0 0 serine-type exopeptidase activity MF
+GO:0070011 1 1 0 0 peptidase activity, acting on L-amino acid peptides MF
+GO:0070403 1 0 0 0 NAD+ binding MF
+GO:0070588 1 0 0 0 calcium ion transmembrane transport BP
+GO:0070838 1 0 0 0 divalent metal ion transport BP
+GO:0071383 1 0 0 0 cellular response to steroid hormone stimulus BP
+GO:0071396 1 0 0 0 cellular response to lipid BP
+GO:0071407 1 0 0 0 cellular response to organic cyclic compound BP
+GO:0072511 1 0 0 0 divalent inorganic cation transport BP
+GO:0072593 0 1 0 0 reactive oxygen species metabolic process BP
+GO:0080171 1 0 0 0 lytic vacuole organization BP
+GO:0090665 0 1 0 0 glycoprotein complex CC
+GO:0097014 1 0 0 0 ciliary plasm CC
+GO:0098531 0 1 0 0 transcription factor activity, direct ligand regulated sequence-specific DNA binding MF
+GO:0098609 0 1 0 0 cell-cell adhesion BP
+GO:0098732 1 0 0 0 macromolecule deacylation BP
+GO:0098742 0 1 0 0 cell-cell adhesion via plasma-membrane adhesion molecules BP
+GO:0098813 0 0 0 1 nuclear chromosome segregation BP
+GO:0098827 0 1 0 0 endoplasmic reticulum subcompartment CC
+GO:0140014 0 0 0 1 mitotic nuclear division BP
+GO:1901071 1 0 0 0 glucosamine-containing compound metabolic process BP
+GO:1901135 1 0 0 0 carbohydrate derivative metabolic process BP
+GO:1901615 0 0 1 0 organic hydroxy compound metabolic process BP
+GO:1901617 0 0 1 0 organic hydroxy compound biosynthetic process BP
+GO:1903047 0 0 0 1 mitotic cell cycle process BP

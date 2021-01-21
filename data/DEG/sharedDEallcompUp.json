@@ -1,0 +1,18 @@
+{
+	"file": "data/DEG/sharedDEallcompUp.txt",
+	"name": "DEG up-regulated genes all comparisons",
+	"header": 0,
+	"separator": "\t",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "Gene" },
+		{"type": "string:", "index": 11, "name": "Description"},
+		{"type": "string:", "index": 12, "name": "Attributes"}
+	],
+	"sets": [
+		{ "format": "binary", "start": 1, "end": 9 }
+    ],
+    "author": "Seth Barribeau",
+	"description": "Differentially expressed up-regulated genes under all comparisons.", 
+    "source": "Labs of Marcus Blagrove and Seth Barribeau (University of Liverpool)"
+}

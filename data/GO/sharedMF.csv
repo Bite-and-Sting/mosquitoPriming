@@ -1,0 +1,42 @@
+GO;WNVp_WNV.WNVp_JEV;Sham_JEV.WNVp_JEV;Sham_C.Sham_WNV;Sham_C.Sham_JEV;Sham_C.WNVp_WNV;Sham_C.WNVp_JEV;Term;class
+GO:0000287;0;0;0;1;0;0;magnesium ion binding;MF
+GO:0003676;1;1;0;1;0;0;nucleic acid binding;MF
+GO:0003678;0;1;0;0;0;0;DNA helicase activity;MF
+GO:0003723;1;1;0;1;1;1;RNA binding;MF
+GO:0003824;0;1;1;0;1;1;catalytic activity;MF
+GO:0004497;1;0;0;0;0;0;monooxygenase activity;MF
+GO:0004540;0;1;0;0;0;0;ribonuclease activity;MF
+GO:0004551;0;0;0;1;0;0;nucleotide diphosphatase activity;MF
+GO:0005543;0;0;1;0;0;0;phospholipid binding;MF
+GO:0008094;0;1;0;0;0;0;DNA-dependent ATPase activity;MF
+GO:0008169;0;0;1;0;0;0;C-methyltransferase activity;MF
+GO:0008233;0;0;1;0;0;0;peptidase activity;MF
+GO:0008289;0;1;1;0;0;0;lipid binding;MF
+GO:0008649;0;0;0;0;1;1;rRNA methyltransferase activity;MF
+GO:0008988;0;0;0;0;1;1;rRNA (adenine-N6-)-methyltransferase act...;MF
+GO:0015631;0;0;0;1;0;0;tubulin binding;MF
+GO:0016298;0;1;0;0;0;0;lipase activity;MF
+GO:0016614;0;0;1;0;0;0;oxidoreductase activity, acting on CH-OH...;MF
+GO:0016627;0;0;0;1;0;0;oxidoreductase activity, acting on the C...;MF
+GO:0016746;1;0;0;0;0;0;transferase activity, transferring acyl ...;MF
+GO:0016747;0;1;0;0;0;0;transferase activity, transferring acyl ...;MF
+GO:0016758;0;0;0;1;0;0;transferase activity, transferring hexos...;MF
+GO:0016769;0;0;0;0;1;1;transferase activity, transferring nitro...;MF
+GO:0016772;0;0;0;1;0;0;transferase activity, transferring phosp...;MF
+GO:0016853;1;1;1;1;1;1;isomerase activity;MF
+GO:0017137;0;1;0;0;0;0;Rab GTPase binding;MF
+GO:0019787;0;0;0;1;0;0;ubiquitin-like protein transferase activ...;MF
+GO:0019789;1;0;0;0;0;0;SUMO transferase activity;MF
+GO:0030276;0;0;1;0;1;1;clathrin binding;MF
+GO:0030580;0;0;1;0;0;0;quinone cofactor methyltransferase activ...;MF
+GO:0030674;1;0;0;0;1;1;protein-macromolecule adaptor activity;MF
+GO:0036094;0;0;0;1;0;0;small molecule binding;MF
+GO:0048037;0;1;0;0;0;0;cofactor binding;MF
+GO:0051213;1;1;0;0;1;1;dioxygenase activity;MF
+GO:0051540;0;1;0;0;0;0;metal cluster binding;MF
+GO:0051861;0;0;1;0;0;0;glycolipid binding;MF
+GO:0060090;1;0;0;0;1;1;molecular adaptor activity;MF
+GO:0097159;1;1;1;1;1;1;organic cyclic compound binding;MF
+GO:0140096;0;0;1;0;0;0;catalytic activity, acting on a protein;MF
+GO:0140097;0;1;0;0;0;0;catalytic activity, acting on DNA;MF
+GO:1901363;1;1;1;1;1;1;heterocyclic compound binding;MF

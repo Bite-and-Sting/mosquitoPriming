@@ -1,0 +1,19 @@
+{
+	"file": "data/Lit/combinedLit_allDirect.csv",
+	"name": "Shared genes with published papers",
+	"header": 0,
+	"separator": ";",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "Gene" },
+		{"type": "string:", "index": 6, "name": "Name"},
+        {"type": "string:", "index": 7, "name": "Description"},
+        {"type": "string:", "index": 8, "name": "Attributes"}
+	],
+	"sets": [
+		{ "format": "binary", "start": 1, "end": 5 }
+    ],
+    "author": "Seth Barribeau",
+	"description": "Differentially expressed genes under WNV (Sham_C.Sham_WNV) and JEV (Sham_C.Sham_JEV) infection in this study, and in the papers by Bartholomay et al 2010, Pradakar et al 2015, and Shin et al 2014.",
+    "source": "Labs of Marcus Blagrove and Seth Barribeau (University of Liverpool)"
+}

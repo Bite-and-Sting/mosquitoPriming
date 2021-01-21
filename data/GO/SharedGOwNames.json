@@ -1,0 +1,18 @@
+{
+	"file": "data/GO/SharedGOwNames.csv",
+	"name": "Over represented GO terms",
+	"header": 0,
+	"separator": ";",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "GO ID" },
+		{"type": "string:", "index": 5, "name": "GO Description"},
+		{"type": "string:", "index": 6, "name": "GO Category"}
+	],
+	"sets": [
+		{ "format": "binary", "start": 1, "end": 4 }
+    ],
+    "author": "Seth Barribeau, Dal Freitak, Claire Morandin",
+	"description": "Over represented gene ontology (GO) terms under four treatments in two laboratories. Queens were primed orally (Finland) against AFB or CB without subsequent offspring infection, or via injection (North Carolina) to AFB with subsequent AFB infection or sham infection.",
+    "source": "Labs of Dalial Freitak (University of Graz) and Seth Barribeau (University of Liverpool)"
+}

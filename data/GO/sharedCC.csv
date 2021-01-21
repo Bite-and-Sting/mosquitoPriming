@@ -1,0 +1,44 @@
+GO;Sham_C.WNVp_C;WNVp_C.WNVp_WNV;Sham_WNV.WNVp_WNV;WNVp_WNV.WNVp_JEV;Sham_JEV.WNVp_JEV;Sham_C.Sham_WNV;Sham_C.Sham_JEV;Sham_C.WNVp_WNV;Sham_C.WNVp_JEV;Term;class
+GO:0000139;0;0;0;0;0;1;1;0;0;Golgi membrane;CC
+GO:0000407;0;0;0;0;0;1;0;0;0;phagophore assembly site;CC
+GO:0000502;0;0;1;0;0;1;0;0;0;proteasome complex;CC
+GO:0000785;0;0;0;0;1;0;0;0;0;chromatin;CC
+GO:0005622;0;0;1;1;1;1;1;1;1;intracellular;CC
+GO:0005623;0;1;0;0;0;1;0;0;0;cell;CC
+GO:0005634;0;0;1;0;0;0;1;0;0;nucleus;CC
+GO:0005654;0;0;0;0;0;0;1;0;0;nucleoplasm;CC
+GO:0005681;1;1;0;0;1;0;0;0;0;spliceosomal complex;CC
+GO:0005737;0;0;0;1;1;1;0;1;1;cytoplasm;CC
+GO:0005739;0;0;0;1;1;0;0;1;1;mitochondrion;CC
+GO:0005740;0;0;0;1;1;0;0;0;0;mitochondrial envelope;CC
+GO:0005768;0;0;0;0;0;1;0;0;0;endosome;CC
+GO:0005840;0;0;0;1;1;1;1;1;1;ribosome;CC
+GO:0012505;0;0;0;0;0;0;0;1;1;endomembrane system;CC
+GO:0019866;0;0;0;1;1;0;0;0;0;organelle inner membrane;CC
+GO:0030532;0;0;1;1;0;1;1;1;1;small nuclear ribonucleoprotein complex;CC
+GO:0030964;0;0;0;1;1;0;0;0;0;NADH dehydrogenase complex;CC
+GO:0031090;0;0;0;1;1;1;0;1;1;organelle membrane;CC
+GO:0031225;0;0;0;0;0;1;0;0;0;anchored component of membrane;CC
+GO:0031966;0;0;0;1;1;0;0;0;0;mitochondrial membrane;CC
+GO:0031967;0;0;0;1;1;0;0;1;1;organelle envelope;CC
+GO:0031975;0;0;0;1;1;0;0;1;1;envelope;CC
+GO:0032991;0;0;1;0;1;1;0;0;0;protein-containing complex;CC
+GO:0034715;0;0;1;0;0;0;1;0;0;pICln-Sm protein complex;CC
+GO:0034719;0;0;1;0;0;0;1;0;0;SMN-Sm protein complex;CC
+GO:0042175;0;0;0;0;0;0;0;1;1;nuclear outer membrane-endoplasmic retic...;CC
+GO:0043226;0;0;1;1;1;1;1;1;1;organelle;CC
+GO:0043227;0;0;0;1;0;0;0;1;1;membrane-bounded organelle;CC
+GO:0043229;0;0;0;0;0;0;1;0;0;intracellular organelle;CC
+GO:0043231;0;0;0;1;0;0;0;1;1;intracellular membrane-bounded organelle;CC
+GO:0070469;0;0;0;1;1;0;0;1;1;respirasome;CC
+GO:0098588;0;0;0;0;0;0;1;0;0;bounding membrane of organelle;CC
+GO:0098796;0;0;0;1;1;0;0;1;1;membrane protein complex;CC
+GO:0098798;0;0;0;1;0;0;0;1;1;mitochondrial protein complex;CC
+GO:0098800;0;0;0;1;1;0;0;1;1;inner mitochondrial membrane protein com...;CC
+GO:0098803;0;0;0;1;1;0;0;0;0;respiratory chain complex;CC
+GO:0098805;0;0;0;0;0;1;1;0;0;whole membrane;CC
+GO:0120114;0;0;0;1;1;1;1;1;1;Sm-like protein family complex;CC
+GO:1902493;0;0;0;0;0;0;1;0;0;acetyltransferase complex;CC
+GO:1905368;0;0;0;0;0;1;0;0;0;peptidase complex;CC
+GO:1990204;0;0;0;1;1;0;0;1;1;oxidoreductase complex;CC
+GO:1990904;0;0;0;1;0;0;0;0;0;ribonucleoprotein complex;CC

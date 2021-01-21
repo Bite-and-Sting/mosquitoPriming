@@ -1,0 +1,13 @@
+[
+    "data/DEG/sharedDE_vs_A_all.json",
+    "data/DEG/sharedDE_vs_A_down.json",
+    "data/DEG/sharedDE_vs_A_up.json",
+    "data/DEG/sharedDEallcomp.json",
+    // "data/DEG/sharedDEallcompDown.json",
+    // "data/DEG/sharedDEallcompUp.json",
+    "data/GO/sharedGO_ALL.json",
+    "data/GO/sharedBP.json",
+    "data/GO/sharedCC.json",
+    "data/GO/sharedMF.json",
+    "data/Lit/combinedLit_allDirect.json"
+]

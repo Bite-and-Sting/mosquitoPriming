@@ -1,0 +1,245 @@
+GO;Sham_C.WNVp_C;WNVp_C.WNVp_WNV;Sham_WNV.WNVp_WNV;WNVp_WNV.WNVp_JEV;Sham_JEV.WNVp_JEV;Sham_C.Sham_WNV;Sham_C.Sham_JEV;Sham_C.WNVp_WNV;Sham_C.WNVp_JEV;Term;class
+GO:0000139;0;0;0;0;0;1;1;0;0;Golgi membrane;CC
+GO:0000154;0;0;0;1;0;0;0;1;1;rRNA modification;BP
+GO:0000287;0;0;0;0;0;0;1;0;0;magnesium ion binding;MF
+GO:0000407;0;0;0;0;0;1;0;0;0;phagophore assembly site;CC
+GO:0000502;0;0;1;0;0;1;0;0;0;proteasome complex;CC
+GO:0000785;0;0;0;0;1;0;0;0;0;chromatin;CC
+GO:0001932;0;0;0;1;0;0;1;0;0;regulation of protein phosphorylation;BP
+GO:0002376;0;0;1;0;0;0;0;0;0;immune system process;BP
+GO:0003676;0;0;0;1;1;0;1;0;0;nucleic acid binding;MF
+GO:0003678;0;0;0;0;1;0;0;0;0;DNA helicase activity;MF
+GO:0003723;0;0;0;1;1;0;1;1;1;RNA binding;MF
+GO:0003824;0;0;0;0;1;1;0;1;1;catalytic activity;MF
+GO:0004497;0;0;0;1;0;0;0;0;0;monooxygenase activity;MF
+GO:0004540;0;0;0;0;1;0;0;0;0;ribonuclease activity;MF
+GO:0004551;0;0;0;0;0;0;1;0;0;nucleotide diphosphatase activity;MF
+GO:0005543;0;0;0;0;0;1;0;0;0;phospholipid binding;MF
+GO:0005622;0;0;1;1;1;1;1;1;1;intracellular;CC
+GO:0005623;0;1;0;0;0;1;0;0;0;cell;CC
+GO:0005634;0;0;1;0;0;0;1;0;0;nucleus;CC
+GO:0005654;0;0;0;0;0;0;1;0;0;nucleoplasm;CC
+GO:0005681;1;1;0;0;1;0;0;0;0;spliceosomal complex;CC
+GO:0005681;1;1;0;0;1;0;0;0;0;spliceosomal complex;CC
+GO:0005737;0;0;0;1;1;1;0;1;1;cytoplasm;CC
+GO:0005739;0;0;0;1;1;0;0;1;1;mitochondrion;CC
+GO:0005740;0;0;0;1;1;0;0;0;0;mitochondrial envelope;CC
+GO:0005768;0;0;0;0;0;1;0;0;0;endosome;CC
+GO:0005840;0;0;0;1;1;1;1;1;1;ribosome;CC
+GO:0006091;0;0;0;1;1;0;0;1;1;generation of precursor metabolites and ...;BP
+GO:0006139;0;0;0;0;1;0;0;0;0;nucleobase-containing compound metabolic...;BP
+GO:0006220;0;0;0;0;0;1;1;0;0;pyrimidine nucleotide metabolic process;BP
+GO:0006221;0;0;0;0;0;0;1;0;0;pyrimidine nucleotide biosynthetic proce...;BP
+GO:0006396;0;0;1;1;1;1;0;1;1;RNA processing;BP
+GO:0006397;0;0;1;1;1;0;0;1;1;mRNA processing;BP
+GO:0006413;0;0;0;0;1;0;0;0;0;translational initiation;BP
+GO:0006508;0;0;0;0;0;1;0;0;0;proteolysis;BP
+GO:0006643;0;0;0;0;0;0;0;1;1;membrane lipid metabolic process;BP
+GO:0006725;0;0;0;0;1;0;1;0;0;cellular aromatic compound metabolic pro...;BP
+GO:0006753;0;0;0;0;0;1;1;1;1;nucleoside phosphate metabolic process;BP
+GO:0006766;0;0;0;0;0;1;0;0;0;vitamin metabolic process;BP
+GO:0006807;0;0;0;0;1;1;1;0;0;nitrogen compound metabolic process;BP
+GO:0006914;0;0;0;1;0;0;0;0;0;autophagy;BP
+GO:0006935;0;0;0;0;0;1;1;1;1;chemotaxis;BP
+GO:0006950;0;0;1;1;1;1;0;1;1;response to stress;BP
+GO:0006952;0;0;1;0;0;0;0;0;0;defense response;BP
+GO:0006955;0;0;1;0;0;1;0;0;0;immune response;BP
+GO:0006979;0;0;0;0;1;0;0;0;0;response to oxidative stress;BP
+GO:0007033;0;0;0;1;0;1;0;0;0;vacuole organization;BP
+GO:0007049;0;0;0;0;0;0;1;0;0;cell cycle;BP
+GO:0007219;0;0;0;0;0;0;1;0;0;Notch signaling pathway;BP
+GO:0007275;0;0;0;1;0;0;0;0;0;multicellular organism development;BP
+GO:0007610;0;0;0;0;0;1;0;0;0;behavior;BP
+GO:0008094;0;0;0;0;1;0;0;0;0;DNA-dependent ATPase activity;MF
+GO:0008152;0;0;0;1;1;1;1;1;1;metabolic process;BP
+GO:0008169;0;0;0;0;0;1;0;0;0;C-methyltransferase activity;MF
+GO:0008233;0;0;0;0;0;1;0;0;0;peptidase activity;MF
+GO:0008289;0;0;0;0;1;1;0;0;0;lipid binding;MF
+GO:0008380;0;0;1;1;1;1;1;1;1;RNA splicing;BP
+GO:0008649;0;0;0;0;0;0;0;1;1;rRNA methyltransferase activity;MF
+GO:0008655;0;0;0;0;0;1;0;0;0;pyrimidine-containing compound salvage;BP
+GO:0008988;0;0;0;0;0;0;0;1;1;rRNA (adenine-N6-)-methyltransferase act...;MF
+GO:0009058;0;0;0;0;0;0;1;0;0;biosynthetic process;BP
+GO:0009123;0;0;0;0;0;0;1;0;0;nucleoside monophosphate metabolic proce...;BP
+GO:0009218;0;0;0;0;0;1;0;0;0;pyrimidine ribonucleotide metabolic proc...;BP
+GO:0009220;0;0;0;0;0;1;0;0;0;pyrimidine ribonucleotide biosynthetic p...;BP
+GO:0009310;0;0;0;0;0;1;0;0;0;amine catabolic process;BP
+GO:0009605;0;1;1;1;1;1;0;1;1;response to external stimulus;BP
+GO:0009607;0;0;1;1;0;1;0;0;0;response to biotic stimulus;BP
+GO:0009611;0;1;0;0;0;0;0;0;0;response to wounding;BP
+GO:0009636;0;0;1;0;1;1;1;0;0;response to toxic substance;BP
+GO:0009892;0;0;0;0;1;0;0;0;0;negative regulation of metabolic process;BP
+GO:0009966;0;0;0;0;0;0;1;0;0;regulation of signal transduction;BP
+GO:0009967;0;0;0;0;0;0;1;0;0;positive regulation of signal transducti...;BP
+GO:0009987;0;0;0;0;0;0;1;0;0;cellular process;BP
+GO:0010035;0;0;1;0;1;0;0;0;0;response to inorganic substance;BP
+GO:0010605;0;0;0;0;1;0;0;0;0;negative regulation of macromolecule met...;BP
+GO:0010639;0;0;0;1;0;0;0;1;1;negative regulation of organelle organiz...;BP
+GO:0010647;0;0;0;0;0;0;1;0;0;positive regulation of cell communicatio...;BP
+GO:0012505;0;0;0;0;0;0;0;1;1;endomembrane system;CC
+GO:0015631;0;0;0;0;0;0;1;0;0;tubulin binding;MF
+GO:0015833;0;0;0;1;1;1;0;0;0;peptide transport;BP
+GO:0016071;0;0;1;1;1;1;0;1;1;mRNA metabolic process;BP
+GO:0016192;0;0;0;1;1;1;0;1;1;vesicle-mediated transport;BP
+GO:0016298;0;0;0;0;1;0;0;0;0;lipase activity;MF
+GO:0016311;0;0;0;1;0;0;0;1;1;dephosphorylation;BP
+GO:0016573;0;0;0;0;1;0;0;0;0;histone acetylation;BP
+GO:0016614;0;0;0;0;0;1;0;0;0;oxidoreductase activity, acting on CH-OH...;MF
+GO:0016627;0;0;0;0;0;0;1;0;0;oxidoreductase activity, acting on the C...;MF
+GO:0016746;0;0;0;1;0;0;0;0;0;transferase activity, transferring acyl ...;MF
+GO:0016747;0;0;0;0;1;0;0;0;0;transferase activity, transferring acyl ...;MF
+GO:0016758;0;0;0;0;0;0;1;0;0;transferase activity, transferring hexos...;MF
+GO:0016769;0;0;0;0;0;0;0;1;1;transferase activity, transferring nitro...;MF
+GO:0016772;0;0;0;0;0;0;1;0;0;transferase activity, transferring phosp...;MF
+GO:0016853;0;0;0;1;1;1;1;1;1;isomerase activity;MF
+GO:0016925;0;0;1;0;0;0;1;0;0;protein sumoylation;BP
+GO:0017137;0;0;0;0;1;0;0;0;0;Rab GTPase binding;MF
+GO:0018205;0;0;0;0;1;0;1;0;0;peptidyl-lysine modification;BP
+GO:0018208;0;0;0;1;0;0;0;1;1;peptidyl-proline modification;BP
+GO:0019220;0;0;0;1;0;0;1;1;1;regulation of phosphate metabolic proces...;BP
+GO:0019637;0;0;0;0;0;0;1;0;0;organophosphate metabolic process;BP
+GO:0019787;0;0;0;0;0;0;1;0;0;ubiquitin-like protein transferase activ...;MF
+GO:0019789;0;0;0;1;0;0;0;0;0;SUMO transferase activity;MF
+GO:0019866;0;0;0;1;1;0;0;0;0;organelle inner membrane;CC
+GO:0022411;0;0;0;1;0;0;0;1;1;cellular component disassembly;BP
+GO:0022607;0;0;0;1;0;0;0;1;1;cellular component assembly;BP
+GO:0022900;0;0;0;1;1;0;0;1;1;electron transport chain;BP
+GO:0023056;0;0;0;0;0;0;1;0;0;positive regulation of signaling;BP
+GO:0030036;0;0;0;0;0;0;0;1;1;actin cytoskeleton organization;BP
+GO:0030162;0;0;0;0;1;0;0;0;0;regulation of proteolysis;BP
+GO:0030276;0;0;0;0;0;1;0;1;1;clathrin binding;MF
+GO:0030431;0;0;0;0;0;1;0;0;0;sleep;BP
+GO:0030488;0;0;0;0;0;1;0;0;0;tRNA methylation;BP
+GO:0030532;0;0;1;1;0;1;1;1;1;small nuclear ribonucleoprotein complex;CC
+GO:0030580;0;0;0;0;0;1;0;0;0;quinone cofactor methyltransferase activ...;MF
+GO:0030674;0;0;0;1;0;0;0;1;1;protein-macromolecule adaptor activity;MF
+GO:0030964;0;0;0;1;1;0;0;0;0;NADH dehydrogenase complex;CC
+GO:0031090;0;0;0;1;1;1;0;1;1;organelle membrane;CC
+GO:0031225;0;0;0;0;0;1;0;0;0;anchored component of membrane;CC
+GO:0031324;0;0;0;0;1;0;0;0;0;negative regulation of cellular metaboli...;BP
+GO:0031399;0;0;0;1;0;0;1;0;0;regulation of protein modification proce...;BP
+GO:0031966;0;0;0;1;1;0;0;0;0;mitochondrial membrane;CC
+GO:0031967;0;0;0;1;1;0;0;1;1;organelle envelope;CC
+GO:0031975;0;0;0;1;1;0;0;1;1;envelope;CC
+GO:0032101;0;1;0;0;0;0;0;0;0;regulation of response to external stimu...;BP
+GO:0032269;0;0;0;0;1;0;0;0;0;negative regulation of cellular protein ...;BP
+GO:0032535;0;0;0;1;0;0;0;1;1;regulation of cellular component size;BP
+GO:0032956;0;0;0;0;0;0;0;1;1;regulation of actin cytoskeleton organiz...;BP
+GO:0032970;0;0;0;1;0;0;0;1;1;regulation of actin filament-based proce...;BP
+GO:0032989;0;0;0;0;0;1;0;0;0;cellular component morphogenesis;BP
+GO:0032991;0;0;1;0;1;1;0;0;0;protein-containing complex;CC
+GO:0033036;0;0;0;0;0;1;1;1;1;macromolecule localization;BP
+GO:0033043;0;0;0;1;0;0;0;1;1;regulation of organelle organization;BP
+GO:0034641;0;0;0;0;1;0;1;0;0;cellular nitrogen compound metabolic pro...;BP
+GO:0034715;0;0;1;0;0;0;1;0;0;pICln-Sm protein complex;CC
+GO:0034719;0;0;1;0;0;0;1;0;0;SMN-Sm protein complex;CC
+GO:0035308;0;0;0;0;0;0;1;0;0;negative regulation of protein dephospho...;BP
+GO:0035556;0;0;0;0;0;0;1;0;0;intracellular signal transduction;BP
+GO:0036094;0;0;0;0;0;0;1;0;0;small molecule binding;MF
+GO:0042175;0;0;0;0;0;0;0;1;1;nuclear outer membrane-endoplasmic retic...;CC
+GO:0042325;0;0;0;1;0;0;1;1;1;regulation of phosphorylation;BP
+GO:0042752;0;0;0;0;0;1;0;0;0;regulation of circadian rhythm;BP
+GO:0042770;0;0;0;0;0;1;0;0;0;signal transduction in response to DNA d...;BP
+GO:0042822;0;0;0;0;0;1;0;0;0;pyridoxal phosphate metabolic process;BP
+GO:0043086;0;0;0;0;1;0;0;0;0;negative regulation of catalytic activit...;BP
+GO:0043094;0;0;0;0;0;1;1;0;0;cellular metabolic compound salvage;BP
+GO:0043173;0;0;0;0;0;1;0;0;0;nucleotide salvage;BP
+GO:0043226;0;0;1;1;1;1;1;1;1;organelle;CC
+GO:0043227;0;0;0;1;0;0;0;1;1;membrane-bounded organelle;CC
+GO:0043229;0;0;0;0;0;0;1;0;0;intracellular organelle;CC
+GO:0043231;0;0;0;1;0;0;0;1;1;intracellular membrane-bounded organelle;CC
+GO:0043244;0;0;0;0;0;0;0;1;1;regulation of protein-containing complex...;BP
+GO:0043543;0;0;0;0;1;0;1;0;0;protein acylation;BP
+GO:0043933;0;0;0;1;0;0;0;1;1;protein-containing complex subunit organ...;BP
+GO:0044085;0;0;0;1;0;1;0;1;1;cellular component biogenesis;BP
+GO:0044087;0;0;0;0;0;0;0;1;1;regulation of cellular component biogene...;BP
+GO:0044092;0;0;0;0;1;0;0;0;0;negative regulation of molecular functio...;BP
+GO:0044237;0;0;0;1;1;0;1;1;1;cellular metabolic process;BP
+GO:0044238;0;0;0;0;0;0;1;0;0;primary metabolic process;BP
+GO:0044267;0;0;0;1;0;0;0;0;0;cellular protein metabolic process;BP
+GO:0044419;0;0;1;0;0;1;0;0;0;interspecies interaction between organis...;BP
+GO:0045184;0;0;0;1;1;1;1;0;0;establishment of protein localization;BP
+GO:0045861;0;0;0;0;1;0;0;0;0;negative regulation of proteolysis;BP
+GO:0046483;0;0;0;0;1;0;1;0;0;heterocycle metabolic process;BP
+GO:0048037;0;0;0;0;1;0;0;0;0;cofactor binding;MF
+GO:0048511;0;0;0;0;0;1;0;0;0;rhythmic process;BP
+GO:0048519;0;0;0;0;1;0;0;0;0;negative regulation of biological proces...;BP
+GO:0048523;0;0;0;0;1;0;0;0;0;negative regulation of cellular process;BP
+GO:0048583;0;0;0;0;0;0;1;0;0;regulation of response to stimulus;BP
+GO:0048584;0;0;0;0;0;0;1;0;0;positive regulation of response to stimu...;BP
+GO:0048585;0;1;0;0;0;0;0;0;0;negative regulation of response to stimu...;BP
+GO:0050657;0;0;0;0;1;0;0;0;0;nucleic acid transport;BP
+GO:0050795;0;0;0;0;0;1;0;0;0;regulation of behavior;BP
+GO:0050817;0;1;0;0;0;0;0;0;0;coagulation;BP
+GO:0050878;0;1;0;0;0;0;0;0;0;regulation of body fluid levels;BP
+GO:0051128;0;0;0;0;0;0;0;1;1;regulation of cellular component organiz...;BP
+GO:0051129;0;0;0;0;0;0;0;1;1;negative regulation of cellular componen...;BP
+GO:0051172;0;0;0;0;1;0;0;0;0;negative regulation of nitrogen compound...;BP
+GO:0051174;0;0;0;1;0;0;1;1;1;regulation of phosphorus metabolic proce...;BP
+GO:0051213;0;0;0;1;1;0;0;1;1;dioxygenase activity;MF
+GO:0051239;0;1;0;0;0;1;0;0;0;regulation of multicellular organismal p...;BP
+GO:0051241;0;1;0;0;0;0;0;0;0;negative regulation of multicellular org...;BP
+GO:0051246;0;0;0;0;1;0;1;0;0;regulation of protein metabolic process;BP
+GO:0051248;0;0;0;0;1;0;0;0;0;negative regulation of protein metabolic...;BP
+GO:0051338;0;0;0;0;0;0;1;0;0;regulation of transferase activity;BP
+GO:0051346;0;0;0;0;1;0;0;0;0;negative regulation of hydrolase activit...;BP
+GO:0051493;0;0;0;1;1;0;0;1;1;regulation of cytoskeleton organization;BP
+GO:0051494;0;0;0;1;0;0;0;1;1;negative regulation of cytoskeleton orga...;BP
+GO:0051540;0;0;0;0;1;0;0;0;0;metal cluster binding;MF
+GO:0051726;0;0;0;1;0;0;1;1;1;regulation of cell cycle;BP
+GO:0051861;0;0;0;0;0;1;0;0;0;glycolipid binding;MF
+GO:0055114;0;0;0;1;1;0;0;1;1;oxidation-reduction process;BP
+GO:0060090;0;0;0;1;0;0;0;1;1;molecular adaptor activity;MF
+GO:0061024;0;0;0;1;0;0;0;1;1;membrane organization;BP
+GO:0061025;0;0;0;1;0;0;0;0;0;membrane fusion;BP
+GO:0061919;0;0;0;1;0;0;0;0;0;process utilizing autophagic mechanism;BP
+GO:0062197;0;0;0;0;1;0;0;0;0;cellular response to chemical stress;BP
+GO:0065009;0;0;0;1;0;0;1;1;1;regulation of molecular function;BP
+GO:0070469;0;0;0;1;1;0;0;1;1;respirasome;CC
+GO:0070887;0;0;1;0;0;0;0;0;0;cellular response to chemical stimulus;BP
+GO:0071702;0;0;0;0;0;1;1;0;0;organic substance transport;BP
+GO:0071704;0;0;0;0;0;0;1;0;0;organic substance metabolic process;BP
+GO:0071705;0;0;0;1;0;1;1;0;0;nitrogen compound transport;BP
+GO:0072524;0;0;0;0;0;0;0;1;1;pyridine-containing compound metabolic p...;BP
+GO:0072525;0;0;0;0;0;0;0;1;1;pyridine-containing compound biosyntheti...;BP
+GO:0072527;0;0;0;0;0;1;1;0;0;pyrimidine-containing compound metabolic...;BP
+GO:0072528;0;0;0;0;0;1;1;0;0;pyrimidine-containing compound biosynthe...;BP
+GO:0072593;0;0;1;0;1;0;0;0;0;reactive oxygen species metabolic proces...;BP
+GO:0080134;0;1;0;0;0;0;0;0;0;regulation of response to stress;BP
+GO:0080135;0;0;0;0;0;1;0;0;0;regulation of cellular response to stres...;BP
+GO:0090066;0;0;0;1;0;0;0;1;1;regulation of anatomical structure size;BP
+GO:0090304;0;0;0;0;1;0;0;0;0;nucleic acid metabolic process;BP
+GO:0090407;0;0;0;0;0;1;0;0;0;organophosphate biosynthetic process;BP
+GO:0097159;0;0;0;1;1;1;1;1;1;organic cyclic compound binding;MF
+GO:0097237;0;0;0;0;1;0;0;0;0;cellular response to toxic substance;BP
+GO:0097435;0;0;0;0;0;0;0;1;1;supramolecular fiber organization;BP
+GO:0098588;0;0;0;0;0;0;1;0;0;bounding membrane of organelle;CC
+GO:0098655;0;0;0;1;1;0;0;1;1;cation transmembrane transport;BP
+GO:0098754;0;0;1;0;0;0;0;0;0;detoxification;BP
+GO:0098796;0;0;0;1;1;0;0;1;1;membrane protein complex;CC
+GO:0098798;0;0;0;1;0;0;0;1;1;mitochondrial protein complex;CC
+GO:0098800;0;0;0;1;1;0;0;1;1;inner mitochondrial membrane protein com...;CC
+GO:0098803;0;0;0;1;1;0;0;0;0;respiratory chain complex;CC
+GO:0098805;0;0;0;0;0;1;1;0;0;whole membrane;CC
+GO:0120114;0;0;0;1;1;1;1;1;1;Sm-like protein family complex;CC
+GO:0140096;0;0;0;0;0;1;0;0;0;catalytic activity, acting on a protein;MF
+GO:0140097;0;0;0;0;1;0;0;0;0;catalytic activity, acting on DNA;MF
+GO:1900046;0;1;0;0;0;0;0;0;0;regulation of hemostasis;BP
+GO:1900047;0;1;0;0;0;0;0;0;0;negative regulation of hemostasis;BP
+GO:1901293;0;0;0;0;0;1;0;1;1;nucleoside phosphate biosynthetic proces...;BP
+GO:1901360;0;0;0;0;1;0;1;0;0;organic cyclic compound metabolic proces...;BP
+GO:1901363;0;0;0;1;1;1;1;1;1;heterocyclic compound binding;MF
+GO:1901615;0;0;0;0;0;0;1;0;0;organic hydroxy compound metabolic proce...;BP
+GO:1901617;0;0;0;0;0;0;1;0;0;organic hydroxy compound biosynthetic pr...;BP
+GO:1901700;0;0;0;0;1;0;0;0;0;response to oxygen-containing compound;BP
+GO:1902493;0;0;0;0;0;0;1;0;0;acetyltransferase complex;CC
+GO:1902600;0;0;0;1;1;0;0;1;1;proton transmembrane transport;BP
+GO:1902903;0;0;0;0;0;0;0;1;1;regulation of supramolecular fiber organ...;BP
+GO:1902904;0;0;0;0;0;0;0;1;1;negative regulation of supramolecular fi...;BP
+GO:1903509;0;0;0;1;0;0;0;0;0;liposaccharide metabolic process;BP
+GO:1905368;0;0;0;0;0;1;0;0;0;peptidase complex;CC
+GO:1990204;0;0;0;1;1;0;0;1;1;oxidoreductase complex;CC
+GO:1990748;0;0;1;0;0;0;0;0;0;cellular detoxification;BP
+GO:1990904;0;0;0;1;0;0;0;0;0;ribonucleoprotein complex;CC
+GO:2001020;0;0;0;0;0;1;0;0;0;regulation of response to DNA damage sti...;BP
+GO:2001022;0;0;0;0;0;1;0;0;0;positive regulation of response to DNA d...;BP

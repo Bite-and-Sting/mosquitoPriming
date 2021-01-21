@@ -1,0 +1,18 @@
+{
+	"file": "data/GO/sharedBP.csv",
+	"name": "Over-represented GO terms (BP)",
+	"header": 0,
+	"separator": ";",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "GO" },
+		{"type": "string:", "index": 10, "name": "Description"},
+		{"type": "string:", "index": 11, "name": "Class"}
+	],
+	"sets": [
+		{ "format": "binary", "start": 1, "end": 5 }
+    ],
+    "author": "Seth Barribeau",
+	"description": "Over-represented biological process GO terms under four treatments relative to sham-primed and sham-infected individuals: WNV-primed and sham-infected (Sham_C.WNVp_C), sham-primed and WNV infected (Sham_C.Sham_WNV), WNV-primed and WNV-infected (Sham_C.WNVp_WNV), sham-primed and JEV infected (Sham_C.Sham_JEV), and WNV-primed and JEV infected (Sham_C.WNVp_JEV).",
+    "source": "Labs of Marcus Blagrove and Seth Barribeau (University of Liverpool)"
+}
